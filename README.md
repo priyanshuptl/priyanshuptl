@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @priyanshuptl
-- Senior Software Engineer at Velotio Technologies.
+- Member of Technical Staff - 3 at Pure Storage.
+- Ex - Senior Software Engineer at Velotio Technologies.
+- Ex - System Engineer at Tata Consultancy Services.
 - Full Stack Engineer.
 - Mainly contributing in ReactJS development.
 - Work with React.JS, Node.JS, AWS.
